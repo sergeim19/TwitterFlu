@@ -1,4 +1,4 @@
-Motivated by [1], this repository provides a machine learning model to predict flu rates.
+Motivated by [1], this repository provides a machine learning model to predict flu rates data from Twitter.
 
 Files to be uploaded soon.
 
